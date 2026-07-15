@@ -12,13 +12,11 @@
 # - GCD(n^2, n(n+1)) = n * GCD(n, n+1) = n * 1 = n
 # (Since consecutive integers are coprime, GCD(n, n+1) is always 1)
 #
-# Time Complexity:  O(log(min(odsm, evnsm))) due to Euclidean algorithm for GCD
+# Time Complexity:  O(1)
 # Space Complexity: O(1)
 
-import math
-
-class Solution:
-    def gcdOfOddEvenSums(self, n: int) -> int:
+class Solution(object):
+    def gcdOfOddEvenSums(self, n):
         odsm = n * n
         evnsm = n * (n + 1)
-        return math.gcd(odsm, evnsm)
+        return n
