@@ -1,5 +1,5 @@
 # 3867. Sum of GCD of Formed Pairs
-# Difficulty: Easy
+# Difficulty: Medium
 # Link: https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/
 #
 # Problem:
