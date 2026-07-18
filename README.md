@@ -7,9 +7,9 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 6 |
-| 🟡 Medium | 1 |
+| 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
-| **Total** | **7** |
+| **Total** | **8** |
 
 ---
 
@@ -29,6 +29,7 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 | # | Problem | Solution | Time | Space |
 |---|---|---|---|---|
 | 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Python](Medium/3867-sum-of-gcd-of-formed-pairs.py) | O(n log n) | O(n) |
+| 3987 | [Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | [Python](Medium/3987-minimum-total-cost-to-process-all-elements.py) | O(n) | O(1) |
 
 ---
 
