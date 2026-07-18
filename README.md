@@ -6,10 +6,10 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 
 | Difficulty | Solved |
 |---|---|
-| 🟢 Easy | 4 |
+| 🟢 Easy | 5 |
 | 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| **Total** | **5** |
+| **Total** | **6** |
 
 ---
 
@@ -21,6 +21,7 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Easy/020-valid-parentheses.py) | O(n) | O(n) |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](Easy/035-search-insert-position.py) | O(n) | O(1) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Easy/1351-count-negative-numbers-in-a-sorted-matrix.py) | O(m + n) | O(1) |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Python](Easy/1979-find-greatest-common-divisor-of-array.py) | O(n) | O(1) |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Python](Easy/3658-gcd-of-odd-and-even-sums.py) | O(1) | O(1) |
 
 ### 🟡 Medium
