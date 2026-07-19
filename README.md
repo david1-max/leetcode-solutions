@@ -6,10 +6,10 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 
 | Difficulty | Solved |
 |---|---|
-| 🟢 Easy | 9 |
+| 🟢 Easy | 10 |
 | 🟡 Medium | 3 |
 | 🔴 Hard | 0 |
-| **Total** | **12** |
+| **Total** | **13** |
 
 ---
 
@@ -21,6 +21,7 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Easy/020-valid-parentheses.py) | O(n) | O(n) |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](Easy/035-search-insert-position.py) | O(n) | O(1) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](Easy/217-contains-duplicate.py) | O(n) | O(n) |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python](Easy/228-summary-ranges.py) | O(n) | O(1) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](Easy/349-intersection-of-two-arrays.py) | O(m + n) | O(m + n) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](Easy/350-intersection-of-two-arrays-ii.py) | O(m + n) | O(m + n) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Easy/1351-count-negative-numbers-in-a-sorted-matrix.py) | O(m + n) | O(1) |
