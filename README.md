@@ -7,9 +7,9 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 | Difficulty | Solved |
 |---|---|
 | 🟢 Easy | 6 |
-| 🟡 Medium | 2 |
+| 🟡 Medium | 3 |
 | 🔴 Hard | 0 |
-| **Total** | **8** |
+| **Total** | **9** |
 
 ---
 
@@ -28,6 +28,7 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 ### 🟡 Medium
 | # | Problem | Solution | Time | Space |
 |---|---|---|---|---|
+| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Python](Medium/1081-smallest-subsequence-of-distinct-characters.py) | O(n) | O(k) |
 | 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Python](Medium/3867-sum-of-gcd-of-formed-pairs.py) | O(n log n) | O(n) |
 | 3987 | [Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | [Python](Medium/3987-minimum-total-cost-to-process-all-elements.py) | O(n) | O(1) |
 
