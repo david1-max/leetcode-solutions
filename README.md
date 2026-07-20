@@ -6,10 +6,10 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 
 | Difficulty | Solved |
 |---|---|
-| 🟢 Easy | 10 |
+| 🟢 Easy | 11 |
 | 🟡 Medium | 3 |
 | 🔴 Hard | 0 |
-| **Total** | **13** |
+| **Total** | **14** |
 
 ---
 
@@ -24,6 +24,7 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python](Easy/228-summary-ranges.py) | O(n) | O(1) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](Easy/349-intersection-of-two-arrays.py) | O(m + n) | O(m + n) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](Easy/350-intersection-of-two-arrays-ii.py) | O(m + n) | O(m + n) |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [Python](Easy/1260-shift-2d-grid.py) | O(n·m) | O(n·m) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Easy/1351-count-negative-numbers-in-a-sorted-matrix.py) | O(m + n) | O(1) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Python](Easy/1979-find-greatest-common-divisor-of-array.py) | O(n) | O(1) |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Python](Easy/3658-gcd-of-odd-and-even-sums.py) | O(1) | O(1) |
