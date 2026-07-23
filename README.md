@@ -26,6 +26,7 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](Easy/350-intersection-of-two-arrays-ii.py) | O(m + n) | O(m + n) |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [Python](Easy/1260-shift-2d-grid.py) | O(n·m) | O(n·m) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Easy/1351-count-negative-numbers-in-a-sorted-matrix.py) | O(m + n) | O(1) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](Easy/196-delete-duplicate-emails.sql) | O(n^2) | O(n) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Python](Easy/1979-find-greatest-common-divisor-of-array.py) | O(n) | O(1) |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Python](Easy/2553-separate-the-digits-in-an-array.py) | O(n · d) | O(1) |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Python](Easy/3658-gcd-of-odd-and-even-sums.py) | O(1) | O(1) |
