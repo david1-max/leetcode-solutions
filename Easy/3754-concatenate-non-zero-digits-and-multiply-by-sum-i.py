@@ -7,25 +7,27 @@
 # and multiply this new integer by the sum of its non-zero digits.
 #
 # Approach:
-# - Convert n to string to iterate over digits.
-# - Accumulate sum of non-zero digits and build concatenated string of non-zero digits.
+# - Extract digits of n mathematically using modulo and division.
+# - Accumulate the sum of non-zero digits and build a reversed integer of non-zero digits.
+# - Reverse the digit integer back to the original order.
 # - Return the product of the concatenated integer and the sum.
 #
 # Time Complexity:  O(D) — where D is the number of digits in n
-# Space Complexity: O(D)
+# Space Complexity: O(1) — constant auxiliary space
 
 class Solution:
     def sumAndMultiply(self, n: int) -> int:
-        st = str(n)
-        ns = ''
         s = 0
-        if n == 0:
-            return 0
-        for i in st:
-            if i == '0':
+        rr = 0
+        while n > 0:
+            if n % 10 == 0:
                 s += 0
-                continue
             else:
-                ns += i
-                s += int(i)
-        return int(ns) * s
+                s += n % 10
+                rr = rr * 10 + n % 10
+            n //= 10
+        nrr = 0
+        while rr > 0:
+            nrr = nrr * 10 + rr % 10
+            rr = rr // 10
+        return nrr * s
