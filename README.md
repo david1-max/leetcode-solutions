@@ -6,10 +6,10 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 
 | Difficulty | Solved |
 |---|---|
-| 🟢 Easy | 17 |
+| 🟢 Easy | 18 |
 | 🟡 Medium | 4 |
 | 🔴 Hard | 0 |
-| **Total** | **21** |
+| **Total** | **22** |
 
 ---
 
@@ -34,6 +34,7 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Python](Easy/3658-gcd-of-odd-and-even-sums.py) | O(1) | O(1) |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Python](Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.py) | O(D) | O(D) |
 | 3986 | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | [Python](Easy/3986-number-of-elapsed-seconds-between-two-times.py) | O(1) | O(1) |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python](Easy/628-maximum-product-of-three-numbers.py) | O(n log n) | O(1) |
 
 ### 🟡 Medium
 | # | Problem | Solution | Time | Space |
