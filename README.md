@@ -6,10 +6,10 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 
 | Difficulty | Solved |
 |---|---|
-| 🟢 Easy | 17 |
+| 🟢 Easy | 18 |
 | 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
-| **Total** | **22** |
+| **Total** | **23** |
 
 ---
 
