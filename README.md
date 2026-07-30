@@ -26,7 +26,7 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](Easy/349-intersection-of-two-arrays.py) | O(m + n) | O(m + n) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](Easy/350-intersection-of-two-arrays-ii.py) | O(m + n) | O(m + n) |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python](Easy/628-maximum-product-of-three-numbers.py) | O(n log n) | O(1) |
-| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](Easy/1009-complement-of-base-10-integer.py) | O(1) | O(1) |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](Easy/1009-complement-of-base-10-integer.py) | O(log n) | O(log n) |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [Python](Easy/1260-shift-2d-grid.py) | O(n·m) | O(n·m) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Easy/1351-count-negative-numbers-in-a-sorted-matrix.py) | O(m + n) | O(1) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](Easy/1464-maximum-product-of-two-elements-in-an-array.py) | O(n) | O(1) |
