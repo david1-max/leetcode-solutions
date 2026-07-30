@@ -20,21 +20,23 @@ Solving LeetCode problems daily in Python to sharpen DSA skills.
 |---|---|---|---|---|
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Easy/020-valid-parentheses.py) | O(n) | O(n) |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](Easy/035-search-insert-position.py) | O(n) | O(1) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](Easy/196-delete-duplicate-emails.sql) | O(n^2) | O(n) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](Easy/217-contains-duplicate.py) | O(n) | O(n) |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python](Easy/228-summary-ranges.py) | O(n) | O(1) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](Easy/349-intersection-of-two-arrays.py) | O(m + n) | O(m + n) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](Easy/350-intersection-of-two-arrays-ii.py) | O(m + n) | O(m + n) |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python](Easy/628-maximum-product-of-three-numbers.py) | O(n log n) | O(1) |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](Easy/1009-complement-of-base-10-integer.py) | O(1) | O(1) |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [Python](Easy/1260-shift-2d-grid.py) | O(n·m) | O(n·m) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Easy/1351-count-negative-numbers-in-a-sorted-matrix.py) | O(m + n) | O(1) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](Easy/1464-maximum-product-of-two-elements-in-an-array.py) | O(n) | O(1) |
-| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](Easy/196-delete-duplicate-emails.sql) | O(n^2) | O(n) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Python](Easy/1979-find-greatest-common-divisor-of-array.py) | O(n) | O(1) |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Python](Easy/2553-separate-the-digits-in-an-array.py) | O(n · d) | O(1) |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [Python](Easy/3536-maximum-product-of-two-digits.py) | O(D) | O(D) |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Python](Easy/3658-gcd-of-odd-and-even-sums.py) | O(1) | O(1) |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Python](Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.py) | O(D) | O(D) |
 | 3986 | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | [Python](Easy/3986-number-of-elapsed-seconds-between-two-times.py) | O(1) | O(1) |
-| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python](Easy/628-maximum-product-of-three-numbers.py) | O(n log n) | O(1) |
+
 
 ### 🟡 Medium
 | # | Problem | Solution | Time | Space |
